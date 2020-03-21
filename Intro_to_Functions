@@ -1,0 +1,27 @@
+console.log('Hello, world!')
+console.log('Hello, world!')
+console.log('Hello, world!')
+console.log('Hello, world!')
+console.log('Hello, world!')
+console.log('Hello, world!')
+console.log('Hello, world!')
+console.log('Hello, world!')
+console.log('Hello, world!')
+console.log('Hello, world!')
+console.log('Hello, world!')
+
+function sayHello() {
+  console.log('Hello!')
+}
+
+function sayHelloToSofia() {
+  console.log("Hello, Sofia!")
+}
+
+function sayHelloToBrendan() {
+  console.log("Hello, Brendan!")
+}
+
+sayHelloToIsabel()
+sayHelloToSofia()
+sayHelloToBrendan()
